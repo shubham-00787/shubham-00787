@@ -18,8 +18,4 @@ Software engineer. I like taking small, everyday annoyances and turning them int
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### 📊 A bit of GitHub
-
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-00787&show_icons=true&hide_border=true&hide=stars)
-
 <sub>Always open to building something useful — have a look at my pinned repos above.</sub>
