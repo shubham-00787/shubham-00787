@@ -1,10 +1,14 @@
 ## Hi, I'm Shubham Agrawal 👋
 
-Software engineer. I like taking small, everyday annoyances and turning them into tools that other people — including the non-technical people in my life — can actually use.
+AI / Machine Learning engineer. I spend my days building with ML, and my spare time turning small, everyday annoyances into tools that even non-technical people can use.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-agrawal-j971216/)
 
-### 🛠 What I'm building
+### 🤖 What I work on
+
+Machine learning — building and shipping models into products people actually use.
+
+### 🛠 Side projects
 
 **[Clipnest](https://github.com/shubham-00787/clipnest)** — a free, open-source video downloader. Paste a link from YouTube, Instagram, Facebook, X or Snapchat and get it back as an MP4. Built so that someone who isn't technical can just paste a link and go. Python, deployed free on Vercel.
 
@@ -18,4 +22,4 @@ Software engineer. I like taking small, everyday annoyances and turning them int
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<sub>Always open to building something useful — have a look at my pinned repos above.</sub>
+<sub>Always happy to talk AI, or build something small and useful — have a look at my pinned repos above.</sub>
