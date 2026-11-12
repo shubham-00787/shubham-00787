@@ -15,6 +15,8 @@ I work across the full lifecycle of intelligent systems — data, modeling, depl
 
 ### 🛠 Side projects
 
+**[The AI/ML Interview Drop](https://github.com/shubham-00787/ai-interview-drop)** — a free, fully automated newsletter with 15 AI/ML engineer interview questions every Monday and Thursday. It collects what engineers are asking on X, LinkedIn, Reddit and Hacker News, uses an LLM to extract, tag and deduplicate questions, then sends a short email with hints and a PDF study sheet. Runs on GitHub Actions and free tiers. [Subscribe →](https://shubham-00787.github.io/ai-interview-drop/)
+
 **[Clipnest](https://github.com/shubham-00787/clipnest)** — a free, open-source video downloader. Paste a link from YouTube, Instagram, Facebook, X or Snapchat and get it back as an MP4, built so non-technical people can just paste a link and go. Python, on Vercel.
 
 **[poker_dashboard](https://github.com/shubham-00787/poker_dashboard)** — a dashboard for tracking poker games. JavaScript.
