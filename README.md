@@ -15,6 +15,8 @@ I work across the full lifecycle of intelligent systems — data, modeling, depl
 
 ### 🛠 Side projects
 
+**[Portfolio Lens](https://github.com/shubham-00787/portfolio-lens)** — see which stocks and sectors you really own through your Indian mutual funds. Type fund names however you remember them (or paste rows from a CAS statement), add shares you hold directly, and it looks through every fund's latest holdings to show your true exposure, compares you with Nifty and Sensex indices, lets you rebalance with sliders and exports a PDF report. Runs locally and stores nothing you enter. Python (FastAPI) + ECharts. [Watch the 38-second demo →](https://github.com/shubham-00787/portfolio-lens#readme)
+
 **[The AI/ML Interview Drop](https://github.com/shubham-00787/ai-interview-drop)** — a free, fully automated newsletter with 15 AI/ML engineer interview questions every Monday and Thursday. It collects what engineers are asking on X, LinkedIn, Reddit and Hacker News, uses an LLM to extract, tag and deduplicate questions, then sends a short email with hints and a PDF study sheet. Runs on GitHub Actions and free tiers. [Subscribe →](https://shubham-00787.github.io/ai-interview-drop/)
 
 **[Clipnest](https://github.com/shubham-00787/clipnest)** — a free, open-source video downloader. Paste a link from YouTube, Instagram, Facebook, X or Snapchat and get it back as an MP4, built so non-technical people can just paste a link and go. Python, on Vercel.
